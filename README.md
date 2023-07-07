@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushmitra06
-- 👀 I’m interested in sound design and production and everything about tech and computers
+- 👀 I’m interested in Full Stack Web Development along with core Java and python languages.
 - 🌱 I’m currently persuing Electronic and Communication Engineering
-- 💞️ I’m looking to collaborate on Python based projects
+- 💞️ I’m looking to collaborate on technologies like HTML,CSS and JAVASCRIPT.
 - 📫 How to reach me ? mail id - ayushmitra06@gmail.com
 
 <!---
