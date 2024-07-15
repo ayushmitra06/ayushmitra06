@@ -1,9 +1,36 @@
-- 👋 Hi, I’m @ayushmitra06
-- 👀 I’m interested in Full Stack Web Development using the MERN stack along with core Java.
-- 🌱 I’m currently pursuing a degree in Electronics and Communication Engineering.
-- 💞️ I’m looking to collaborate on projects involving technologies like HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and Java.
-- 📫 How to reach me? Email me at ayushmitra06@gmail.com
+# 👋 Hi, I'm Ayush Mitra (@ayushmitra06)
 
+## 👀 About Me
+I’m passionate about Full Stack Web Development using the MERN stack and have a strong background in core Java and Javascript.
+
+## 🌱 My Skills
+
+### Programming Languages
+- C/C++
+- Java
+- JavaScript
+- SQL
+
+### Core Competencies
+- Data Structures & Algorithms
+- Object-Oriented Programming
+
+### Web Technologies
+- HTML5
+- CSS3
+- React.js
+- Node.js
+- Express.js
+
+### Databases
+- MySQL
+- MongoDB
+
+## 💞️ Let's Collaborate
+I am always open to collaborating on projects involving the latest web technologies. If you have an exciting project or idea, feel free to reach out!
+
+## 📫 Contact Me
+You can reach me via email at ayushmitra06@gmail.com.
 <!---
 ayushmitra06/ayushmitra06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
