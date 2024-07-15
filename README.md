@@ -3,17 +3,11 @@
 ## 👀 About Me
 I’m passionate about Full Stack Web Development using the MERN stack and have a strong background in core Java and Javascript.
 
-## 🌱 My Skills
-
 ### Programming Languages
 - C/C++
 - Java
 - JavaScript
 - SQL
-
-### Core Competencies
-- Data Structures & Algorithms
-- Object-Oriented Programming
 
 ### Web Technologies
 - HTML5
