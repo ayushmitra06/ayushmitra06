@@ -1,24 +1,7 @@
 # 👋 Hi, I'm Ayush Mitra (@ayushmitra06)
 
 ## 👀 About Me
-I’m passionate about Full Stack Web Development using the MERN stack and have a strong background in core Java and Javascript.
-
-### Programming Languages
-- C/C++
-- Java
-- JavaScript
-- SQL
-
-### Web Technologies
-- HTML5
-- CSS3
-- React.js
-- Node.js
-- Express.js
-
-### Databases
-- MySQL
-- MongoDB
+I like making websites :)
 
 ## 💞️ Let's Collaborate
 I am always open to collaborating on projects involving the latest web technologies. If you have an exciting project or idea, feel free to reach out!
