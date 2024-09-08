@@ -17,7 +17,7 @@ I'm a passionate Full Stack Developer skilled in MERN Stack and Java, actively w
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ayushmitra_06?theme=dark)](https://leetcode.com/ayushmitra_06/)
 
 ### GeeksforGeeks
-![GFG Stats](https://geekbadge-geeksforgeeks.vercel.app/api?username=ayushmitra_06)
+[![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-ayushmitra_06-blue?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/ayushmitra_06/)
 
 ### HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ayushmitra06)
