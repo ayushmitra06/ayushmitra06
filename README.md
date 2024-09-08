@@ -22,9 +22,5 @@ I'm a passionate Full Stack Developer skilled in MERN Stack and Java, actively w
 ### HackerRank
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ayushmitra06)
 
-## ⚡ GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
