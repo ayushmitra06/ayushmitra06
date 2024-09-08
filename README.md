@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Ayush Mitra!
 
 ## 🚀 About Me
 I'm a passionate Full Stack Developer skilled in MERN Stack and Java, actively working on solving problems on GFG, LeetCode, and HackerRank.
