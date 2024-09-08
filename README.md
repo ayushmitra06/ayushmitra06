@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer skilled in MERN Stack and Java, actively w
 [![GeeksforGeeks Profile](https://img.shields.io/badge/GeeksforGeeks-ayushmitra_06-blue?logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/ayushmitra_06/)
 
 ### HackerRank
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ayushmitra06)
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-ayushmitra_06-yellowgreen)](https://www.hackerrank.com/ayushmitra_06)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
